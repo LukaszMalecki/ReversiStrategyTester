@@ -1,0 +1,16 @@
+Get corners
+Your piece shouldn't fall in any of 3 places surrounding the corner
+
+Don't have too many pieces on corners - don't play corners in early and middle game
+If enemy has one corner you should try to get the other one
+
+Early game - try not taking many pieces, cuz the fewer pieces you have, more flexible you are
+
+Have pieces in center?
+
+Lower enemy's number of good moves by blocking legal moves
+
+Endgame - last 20 moves of the game (41st move onward) - then you can try getting them discs flipped
+
+https://en.wikipedia.org/wiki/Minimax
+https://en.wikibooks.org/wiki/Reversi/Strategy#Corners
